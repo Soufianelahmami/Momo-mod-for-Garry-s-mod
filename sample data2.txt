@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"tips mod 1","desc":"Project Momo is a popular mod for the Garry's Mod application, created by a group of dedicated fans of the game. The mod adds a new playable character to the game, Momo,","photo":"https://iili.io/HvEXtLl.jpg"},
+  {"title":"how to use this app 2","desc":"Some devoted Garry's Mod users came together to build the well-liked mod known as Project Momo. Momo, a new playable character, is included in the mod.","photo":"https://iili.io/HvEXZX4.jpg"},
+  {"title":"advice pack 3","desc":"who is based on a viral internet meme that originated in Japan. Momo is a creepy character with a distorted face and bulging eyes, and she has become well-known on the internet as a symbol of horror and fear.","photo":"https://iili.io/HvEXm1S.jpg"},
+  {"title":"helper mod 4","desc":"who is modeled off a popular online joke that was created in Japan. Momo is a spooky figure with a warped face and bulging eyes who has gained a lot of notoriety online as a representation of terror and anxiety.","photo":"https://iili.io/HvEXbB2.jpg"},
+  {"title":"advance pack 5","desc":"The Project Momo mod introduces this character to Garry's Mod in a number of different ways. Firstly, players can choose to play as Momo themselves, giving them access to all of her unique abilities and attacks. These include the ability to teleport short distances","photo":"https://iili.io/HvEXpr7.jpg"},
+  {"title":"tips mod 6","desc":"This character is introduced to Garry's Mod in a variety of ways via the Project Momo mod. Initially, players have the option of taking on the role of Momo, giving them access to all of her special skills and attacks. They include the capacity for quick teleportation.","photo":"https://iili.io/HvEh929.jpg"},
+  {"title":"advice pack 7","desc":", the ability to stun other players with a powerful scream, and the ability to summon creepy "children" that can attack enemies.","photo":"https://iili.io/HvEhH7e.jpg"},
+  {"title":"helper mod 8","desc":" the capability to use an intense scream to stun other players, and the capacity to call out eerie "children" that can engage in combat with foes.","photo":"https://iili.io/HvEhJku.jpg"}
 
    ]
  
